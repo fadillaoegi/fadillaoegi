@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 <img align="left" alt="laravel" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
 
 <img align="left" alt="postman" width="22px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
-<img align="left" alt="mysql" width="22px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
+<img align="left" alt="mysql" width="44px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
