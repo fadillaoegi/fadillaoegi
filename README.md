@@ -1,4 +1,6 @@
-### Hi there, I'm M Fadil Muhtarom Laoegi 👋
+<div align="center"> ### Hi there, I'm M Fadil Muhtarom Laoegi 👋 </div>
+
+<hr>
 
 Here are some ideas to get you started:
 
