@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <img align="left" alt="html" width="22px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
 <img align="left" alt="css" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
 <img align="left" alt="javascript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" alt="flutter" width="22px" src="![flutter](https://user-images.githubusercontent.com/58667496/180014842-1fead90f-1ba3-4eb3-9805-5859ac549785.png)
-" /> 
+<!-- <img align="left" alt="flutter" width="22px" src="![flutter](https://user-images.githubusercontent.com/58667496/180014842-1fead90f-1ba3-4eb3-9805-5859ac549785.png)
+" />  -->
 
 
 <img align="left" alt="java" width="22px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 <img align="left" alt="postman" width="22px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
 <img align="left" alt="mysql" width="44px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 
-![flutter](https://user-images.githubusercontent.com/58667496/180014842-1fead90f-1ba3-4eb3-9805-5859ac549785.png)
+<!-- ![flutter](https://user-images.githubusercontent.com/58667496/180014842-1fead90f-1ba3-4eb3-9805-5859ac549785.png) -->
 
