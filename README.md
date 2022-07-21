@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
  ### Connect with me:
 
-<a target="blank" href="https://www.linkedin.com/in/fadil-laoegi-b632a3204/"><img align="left" alt="Fadil Laoegi | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-<a target="blank" href="https://www.instagram.com/fdlml_/"><img align="left" alt="farisqlail | Instagram" width="22px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" /></a>
+<a target="blank" href="https://www.linkedin.com/in/fadil-laoegi-b632a3204/"><img align="left" alt="Fadil Laoegi | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+<a target="blank" href="https://www.instagram.com/fdlml_/"><img align="left" alt="farisqlail | Instagram" width="32px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" /></a>
 
 
 <br/>
