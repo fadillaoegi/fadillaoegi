@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Dynamic University Surabaya Indonesia
 - 🌱 I’m currently learning about Web Development, Mobile Development, and Video Editing
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact:  I love to play game and Badminton
 
 
