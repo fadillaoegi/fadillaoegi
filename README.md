@@ -2,10 +2,9 @@
 
 
 <div align="center"> Hi there, I'm M Fadil Muhtarom Laoegi 👋 </div>
+<div align="center">Stay Foolish</div>
 
 <hr>
-
-<div>Stay Foolish</div>
 
 Here are some ideas to get you started:
 
