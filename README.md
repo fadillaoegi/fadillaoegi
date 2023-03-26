@@ -1,3 +1,6 @@
+
+<div>Stay Foolish</div>
+
 <div align="center"> Hi there, I'm M Fadil Muhtarom Laoegi 👋 </div>
 
 <hr>
@@ -6,7 +9,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on Dynamic University Surabaya Indonesia
 - 🌱 I’m currently learning about Web Development, Mobile Development, and Video Editing
-- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact:  I love to play game and Badminton
 
 
