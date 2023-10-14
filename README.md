@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a target="blank" href="https://www.instagram.com/fdlml_/"><img align="left" alt="farisqlail | Instagram" width="32px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" /></a>
 
 
-<br/>
+<br/> <br/>
 
 ### Experience Tools:
 <img align="left" alt="androidstudio" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
