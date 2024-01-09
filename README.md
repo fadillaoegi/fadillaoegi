@@ -41,10 +41,9 @@ Here are some ideas to get you started:
 <img align="left" alt="javascript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="java" width="32px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
 <img align="left" alt="php" width="42px" src="https://github.com/fadillaoegi/AssetsIcons/blob/master/Png/For_Stiker/Php.png" />
-<img align="left" alt="c++" width="32px" src="https://github.com/fadillaoegi/AssetsIcons/blob/master/Png/For_Stiker/c%2B%2B.png" />
 <img align="left" alt="kotlin" width="32px" src="https://github.com/fadillaoegi/AssetsIcons/blob/master/Png/For_Stiker/kotlin.png" />
 <img align="left" alt="dart" width="32px" src="https://github.com/fadillaoegi/AssetsIcons/blob/master/Png/For_Stiker/dart.png" />
-<img align="left" alt="python" width="32px" src="https://github.com/fadillaoegi/AssetsIcons/blob/master/Png/For_Stiker/Phyton.png" />
+
 
 <br/> <br/>
 
