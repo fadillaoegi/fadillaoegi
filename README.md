@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <img align="left" alt="postman" width="32px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
 <img align="left" alt="bootstrap" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
 <img align="left" alt="figma" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> 
-<img align="left" alt="xd" width="32px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" /> 
 <img align="left" alt="photoshop" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <img align="left" alt="photoshop" width="32px" src="https://github.com/fadillaoegi/AssetsIcons/blob/master/Png/For_Stiker/pr.png" />
 <img align="left" alt="ai" width="32px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
