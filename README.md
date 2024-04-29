@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <img align="left" alt="flutter" width="32px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> 
 <img align="left" alt="laravel" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
 <img align="left" alt="ReactNative" width="32px" src="https://reactnative.dev/img/header_logo.svg" />
-<img align="left" alt="CodeIgniter" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/free-codeigniter-4-1175201.png?f=webp" />
+<img align="left" alt="CodeIgniter" width="42px" src="https://cdn.iconscout.com/icon/free/png-256/free-codeigniter-4-1175201.png?f=webp" />
 
 
 <br/> <br/>
