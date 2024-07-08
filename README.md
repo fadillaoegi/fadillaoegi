@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### Language:
 <img align="left" alt="html" width="37px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
 <img align="left" alt="css" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
-<img align="left" alt="javascript" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
+<img align="left" alt="javascript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
 <img align="left" alt="java" width="32px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
 <img align="left" alt="php" width="42px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/Php.png" />
 <img align="left" alt="kotlin" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/kotlin.png" />
