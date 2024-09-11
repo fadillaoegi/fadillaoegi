@@ -38,13 +38,15 @@ Here are some ideas to get you started:
 <br/> <br/>
 
 ### Language:
-<img align="left" alt="html" width="37px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
-<img align="left" alt="css" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
-<img align="left" alt="javascript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
-<img align="left" alt="java" width="32px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
-<img align="left" alt="php" width="42px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/Php.png" />
-<img align="left" alt="kotlin" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/kotlin.png" />
-<img align="left" alt="dart" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/dart.png" />
+<div>
+ <img align="left" alt="html" width="37px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
+ <img align="left" alt="css" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
+ <img align="left" alt="javascript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
+ <img align="left" alt="java" width="32px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
+ <img align="left" alt="php" width="42px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/Php.png" />
+ <img align="left" alt="kotlin" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/kotlin.png" />
+ <img align="left" alt="dart" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/dart.png" />
+</div>
 
 
 <br/> <br/>
@@ -62,9 +64,10 @@ Here are some ideas to get you started:
 
 ### DataBase:
 <div>
-</div>
-<img align="left" alt="mysql" width="54px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
-<!--<img align="left" alt="mysql" width="54px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/My_sql.png" />-->
-<img align="left" alt="firebase" width="34px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/firebase.png" />
+ <img align="left" alt="mysql" width="54px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
+ <!--<img align="left" alt="mysql" width="54px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/My_sql.png" />-->
+ <img align="left" alt="firebase" width="34px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/firebase.png" />
 
-<!-- ![flutter](https://user-images.githubusercontent.com/58667496/180014842-1fead90f-1ba3-4eb3-9805-5859ac549785.png) -->
+ <!-- ![flutter](https://user-images.githubusercontent.com/58667496/180014842-1fead90f-1ba3-4eb3-9805-5859ac549785.png) -->
+</div>
+
