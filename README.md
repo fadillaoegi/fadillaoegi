@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a target="blank" href="https://www.instagram.com/fdlml_/"><img align="left" alt="farisqlail | Instagram" width="32px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" /></a>
 
 
-<br/> <br/>
+<br/>
 
 ### Experience Tools:
 <div>
