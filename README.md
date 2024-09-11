@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  <img align="left" alt="ai" width="32px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
 </div>
 
-<br/> <br/>
+<br/>
 
 ### Language:
 <div>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<br/> <br/>
+<br/> 
 
 ### Framework:
 <div>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<br/> <br/>
+<br/>
 
 ### DataBase:
 <div>
