@@ -22,16 +22,19 @@ Here are some ideas to get you started:
 <br/> <br/>
 
 ### Experience Tools:
-<img align="left" alt="androidstudio" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
-<img align="left" alt="netbean" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/NetBeans.png" />
-<img align="left" alt="vscode" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/Vscode.png" />
-<img align="left" alt="git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="postman" width="32px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
-<img align="left" alt="bootstrap" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
-<img align="left" alt="figma" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> 
-<img align="left" alt="photoshop" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/ps.png" />
-<img align="left" alt="premiere" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/pr.png" />
-<img align="left" alt="ai" width="32px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
+<div>
+ <img align="left" alt="androidstudio" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
+ <img align="left" alt="netbean" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/NetBeans.png" />
+ <img align="left" alt="vscode" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/Vscode.png" />
+ <img align="left" alt="git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+ <img align="left" alt="postman" width="32px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
+ <img align="left" alt="bootstrap" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
+ <img align="left" alt="figma" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> 
+ <img align="left" alt="photoshop" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/ps.png" />
+ <img align="left" alt="premiere" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/pr.png" />
+ <img align="left" alt="ai" width="32px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
+</div>
+
 <br/> <br/>
 
 ### Language:
@@ -49,15 +52,17 @@ Here are some ideas to get you started:
 ### Framework:
 <div>
  <img align="left" alt="flutter" width="32px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> 
-<img align="left" alt="laravel" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
-<img align="left" alt="ReactNative" width="32px" src="https://reactnative.dev/img/header_logo.svg" />
-<img align="left" alt="CodeIgniter" width="42px" src="https://cdn.iconscout.com/icon/free/png-256/free-codeigniter-4-1175201.png?f=webp" />
+ <img align="left" alt="laravel" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
+ <img align="left" alt="ReactNative" width="32px" src="https://reactnative.dev/img/header_logo.svg" />
+ <img align="left" alt="CodeIgniter" width="42px" src="https://cdn.iconscout.com/icon/free/png-256/free-codeigniter-4-1175201.png?f=webp" />
 </div>
 
 
 <br/> <br/>
 
 ### DataBase:
+<div>
+</div>
 <img align="left" alt="mysql" width="54px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
 <!--<img align="left" alt="mysql" width="54px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/My_sql.png" />-->
 <img align="left" alt="firebase" width="34px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/firebase.png" />
