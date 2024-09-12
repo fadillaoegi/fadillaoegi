@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<br/> 
+<br/> <br/>
 
 ### Framework:
 <div>
@@ -58,7 +58,6 @@ Here are some ideas to get you started:
  <img align="left" alt="ReactNative" width="32px" src="https://reactnative.dev/img/header_logo.svg" />
  <img align="left" alt="CodeIgniter" width="42px" src="https://cdn.iconscout.com/icon/free/png-256/free-codeigniter-4-1175201.png?f=webp" />
 </div>
-
 
 <br/>
 
