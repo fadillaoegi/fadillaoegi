@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-Language:
+### Language:
 <div>
  <img align="left" alt="html" width="37px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
  <img align="left" alt="css" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
@@ -51,7 +51,7 @@ Language:
 
 <br/> 
 
-Framework:
+### Framework:
 <div>
  <img align="left" alt="flutter" width="32px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> 
  <img align="left" alt="laravel" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
