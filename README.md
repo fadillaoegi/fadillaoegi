@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying on Dynamic University Surabaya Indonesia
+- 🔭 I’m currently studying on Dinamika University Surabaya Indonesia
 - 🌱 I’m currently learning about Web Development, Mobile Development, and Video Editing
 - ⚡ Fun fact:  I love to play game and Badminton
 
