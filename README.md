@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  <img align="left" alt="netbean" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/NetBeans.png" />
  <img align="left" alt="vscode" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/Vscode.png" />
  <img align="left" alt="git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
- <img align="left" alt="postman" width="32px" src="!https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
+ <img align="left" alt="postman" width="32px" src="https://images.seeklogo.com/logo-png/32/1/postman-logo-png_seeklogo-321406.png" />
  <img align="left" alt="bootstrap" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
  <img align="left" alt="figma" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> 
  <img align="left" alt="photoshop" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/ps.png" />
