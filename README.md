@@ -1,6 +1,4 @@
 
-
-
 <div align="center"> Hi there, I'm M Fadil Muhtarom Laoegi 👋 </div>
 <div align="center">Stay Foolish</div>
 
@@ -29,7 +27,6 @@ Here are some ideas to get you started:
  <img align="left" alt="vscode" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Vscode.png" />
  <img align="left" alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
  <img align="left" alt="postman" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/c136e6fd95f02ae90f3328ed9d3e4a6a3cc8dbd7/logo/Programming/postman.svg" />
- <img align="left" alt="bootstrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
  <img align="left" alt="figma" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> 
  <img align="left" alt="photoshop" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/ps.png" />
  <img align="left" alt="premiere" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/pr.png" />
@@ -40,13 +37,13 @@ Here are some ideas to get you started:
 
 ### Language:
 <div>
- <img align="left" alt="html" width="37px" src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" />
- <img align="left" alt="css" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />
- <img align="left" alt="javascript" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
- <img align="left" alt="java" width="32px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" />
- <img align="left" alt="php" width="42px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/Php.png" />
- <img align="left" alt="kotlin" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/kotlin.png" />
- <img align="left" alt="dart" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/dart.png" />
+ <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/HTML5.png" />
+ <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Css.png" />
+ <img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/JavaScript.png" />
+ <!-- <img align="left" alt="java" width="32px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" /> -->
+ <img align="left" alt="php" width="42px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Php.png" />
+ <!-- <img align="left" alt="kotlin" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/kotlin.png" /> -->
+ <img align="left" alt="dart" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/dart.png" />
 </div>
 
 
@@ -58,6 +55,9 @@ Here are some ideas to get you started:
  <img align="left" alt="laravel" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" />
  <img align="left" alt="ReactNative" width="32px" src="https://reactnative.dev/img/header_logo.svg" />
  <img align="left" alt="CodeIgniter" width="42px" src="https://cdn.iconscout.com/icon/free/png-256/free-codeigniter-4-1175201.png?f=webp" />
+ <img align="left" alt="bootstrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
+ <img align="left" alt="Tailwindcss" width="42px" src="https://cdn.iconscout.com/icon/free/png-256/free-codeigniter-4-1175201.png?f=webp" />
+ 
 </div>
 
 <br/><br/>
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <div>
  <img align="left" alt="mysql" width="54px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
  <!--<img align="left" alt="mysql" width="54px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/My_sql.png" />-->
- <img align="left" alt="firebase" width="34px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/firebase.png" />
+ <img align="left" alt="firebase" width="52px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/firebase.png" />
 
  <!-- ![flutter](https://user-images.githubusercontent.com/58667496/180014842-1fead90f-1ba3-4eb3-9805-5859ac549785.png) -->
 </div>
