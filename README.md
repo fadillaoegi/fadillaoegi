@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Experience Tools: 
 <div>
- <img align="left" alt="androidstudio" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png" />
+ <img align="left" alt="androidstudio" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Android%20Studio.png" />
  <img align="left" alt="androidstudio" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Android.png" />
  <img align="left" alt="netbean" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/NetBeans.png" />
  <img align="left" alt="vscode" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/Vscode.png" />
