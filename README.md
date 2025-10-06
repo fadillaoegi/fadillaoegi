@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
  ### Connect with me:
 
-<a target="blank" href="https://www.linkedin.com/in/fadil-laoegi-b632a3204/"><img align="left" alt="Fadil Laoegi | LinkedIn" width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-<a target="blank" href="https://www.instagram.com/fdlml_/"><img align="left" alt="fariFLdev | Instagram" width="32px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" /></a>
+<a target="blank" href="https://www.linkedin.com/in/fadil-laoegi-b632a3204/"><img align="left" alt="Fadil Laoegi | LinkedIn" width="50px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+<a target="blank" href="https://www.instagram.com/fdlml_/"><img align="left" alt="fariFLdev | Instagram" width="50px" src="https://static.cdnlogo.com/logos/i/92/instagram.svg" /></a>
 
 
 <br/><br/>
@@ -40,14 +40,13 @@ Here are some ideas to get you started:
  <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/HTML5.png" />
  <img align="left" alt="css" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Css.png" />
  <img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/JavaScript.png" />
- <!-- <img align="left" alt="java" width="32px" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" /> -->
- <img align="left" alt="php" width="42px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Php.png" />
- <!-- <img align="left" alt="kotlin" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/kotlin.png" /> -->
- <img align="left" alt="dart" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/dart.png" />
+ <img align="left" alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/TypeScript.png" />
+ <img align="left" alt="php" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Php.png" />
+ <img align="left" alt="dart" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/dart.png" />
 </div>
 
 
-<br/> <br/>
+<br/> <br/> <br/>
 
 ### Framework:
 <div>
@@ -56,18 +55,19 @@ Here are some ideas to get you started:
  <img align="left" alt="ReactNative" width="32px" src="https://reactnative.dev/img/header_logo.svg" />
  <img align="left" alt="CodeIgniter" width="42px" src="https://cdn.iconscout.com/icon/free/png-256/free-codeigniter-4-1175201.png?f=webp" />
  <img align="left" alt="bootstrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
- <img align="left" alt="Tailwindcss" width="42px" src="https://cdn.iconscout.com/icon/free/png-256/free-codeigniter-4-1175201.png?f=webp" />
- 
+ <img align="left" alt="Tailwindcss" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Tailwind%20CSS.png" />
+ <img align="left" alt="Vite" width="42px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Vite.js.png" />
+ <img align="left" alt="Vue" width="42px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Vue.js.png" />
+ <img align="left" alt="React" width="42px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/React.png" />
 </div>
 
-<br/><br/>
+<br/> <br/> <br/>
 
 ### DataBase:
 <div>
- <img align="left" alt="mysql" width="54px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
+ <img align="left" alt="mysql" width="80px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" />
  <!--<img align="left" alt="mysql" width="54px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/My_sql.png" />-->
- <img align="left" alt="firebase" width="52px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/firebase.png" />
-
+ <img align="left" alt="firebase" width="42px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/firebase.png" />
  <!-- ![flutter](https://user-images.githubusercontent.com/58667496/180014842-1fead90f-1ba3-4eb3-9805-5859ac549785.png) -->
 </div>
 
