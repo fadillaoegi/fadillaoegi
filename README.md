@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 
 ### Experience Tools: 
 <div>
- <img align="left" alt="androidstudio" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Android%20Studio.png" />
- <img align="left" alt="androidstudio" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Android.png" />
- <img align="left" alt="netbean" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/NetBeans.png" />
- <img align="left" alt="vscode" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/Vscode.png" />
- <img align="left" alt="git" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
- <img align="left" alt="postman" width="32px" src="https://images.seeklogo.com/logo-png/32/1/postman-logo-png_seeklogo-321406.png" />
- <img align="left" alt="bootstrap" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
+ <img align="left" alt="androidstudio" width="100px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Android%20Studio.png" />
+ <img align="left" alt="androidstudio" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Android.png" />
+ <img align="left" alt="netbean" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/NetBeans.png" />
+ <img align="left" alt="vscode" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/refs/heads/master/logo/Programming/Vscode.png" />
+ <img align="left" alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+ <img align="left" alt="postman" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/c136e6fd95f02ae90f3328ed9d3e4a6a3cc8dbd7/logo/Programming/postman.svg" />
+ <img align="left" alt="bootstrap" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
  <img align="left" alt="figma" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /> 
- <img align="left" alt="photoshop" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/ps.png" />
- <img align="left" alt="premiere" width="32px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/pr.png" />
- <img align="left" alt="ai" width="32px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
+ <img align="left" alt="photoshop" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/ps.png" />
+ <img align="left" alt="premiere" width="50px" src="https://raw.githubusercontent.com/fadillaoegi/APIMyAssets/master/logo/pr.png" />
+ <!-- <img align="left" alt="ai" width="32px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /> -->
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 ### Language:
 <div>
